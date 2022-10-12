@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-firebase-33c8e": {
+      "hosting": {
+        "ANGULAR": [
+          "angular-firebase-33c8e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-33c8e"
+  }
+}
